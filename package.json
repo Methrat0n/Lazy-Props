@@ -28,7 +28,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "mocha": "^6.2.2",
-    "react": "0.13.0",
+    "react": "0.14.0",
     "ts-node": "^8.5.2",
     "typescript": "^3.7.2"
   },
